@@ -1,0 +1,10 @@
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Owner singed in page\OwnerSignedInPage\bin\Debug\OwnerSignedInPage.exe.config
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Owner singed in page\OwnerSignedInPage\bin\Debug\OwnerSignedInPage.exe
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Owner singed in page\OwnerSignedInPage\bin\Debug\OwnerSignedInPage.pdb
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Owner singed in page\OwnerSignedInPage\obj\Debug\OwnerSignedInPage.csproj.AssemblyReference.cache
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Owner singed in page\OwnerSignedInPage\obj\Debug\OwnerSignedInPage.Form1.resources
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Owner singed in page\OwnerSignedInPage\obj\Debug\OwnerSignedInPage.Properties.Resources.resources
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Owner singed in page\OwnerSignedInPage\obj\Debug\OwnerSignedInPage.csproj.GenerateResource.cache
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Owner singed in page\OwnerSignedInPage\obj\Debug\OwnerSignedInPage.csproj.CoreCompileInputs.cache
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Owner singed in page\OwnerSignedInPage\obj\Debug\OwnerSignedInPage.exe
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Owner singed in page\OwnerSignedInPage\obj\Debug\OwnerSignedInPage.pdb

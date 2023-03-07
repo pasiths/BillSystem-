@@ -1,0 +1,33 @@
+CREATE DATABSE bookshop;
+
+CREATE TABLE mebDetails(
+	mebID int NOT NULL PRIMARY KEY,
+	firstName varchar(50),
+	lastName varchar(50),
+	dateOfBirth date,
+	idNo int,
+	gender varchar(10),
+	address varchar(50),
+	email varchar(50),
+	mobileNum int,
+	homeNum int,
+	section varchar(50)
+);
+
+CREATE TABLE addminAccess(
+	mebID int NOT NULL PRIMARY KEY,
+	username varchar(10),
+	password varchar(10)
+);
+
+CREATE TABLE cashierAccess(
+	mebID int NOT NULL PRIMARY KEY,
+	username varchar(10),
+	password varchar(10)
+);
+
+CREATE TABLE stmAccess(
+	mebID int NOT NULL PRIMARY KEY,
+	username varchar(10),
+	password varchar(10)
+);

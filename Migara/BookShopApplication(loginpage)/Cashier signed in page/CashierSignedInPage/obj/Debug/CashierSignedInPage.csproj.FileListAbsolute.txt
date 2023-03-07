@@ -1,0 +1,10 @@
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Cashier signed in page\CashierSignedInPage\bin\Debug\CashierSignedInPage.exe.config
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Cashier signed in page\CashierSignedInPage\bin\Debug\CashierSignedInPage.exe
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Cashier signed in page\CashierSignedInPage\bin\Debug\CashierSignedInPage.pdb
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Cashier signed in page\CashierSignedInPage\obj\Debug\CashierSignedInPage.csproj.AssemblyReference.cache
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Cashier signed in page\CashierSignedInPage\obj\Debug\CashierSignedInPage.Form1.resources
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Cashier signed in page\CashierSignedInPage\obj\Debug\CashierSignedInPage.Properties.Resources.resources
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Cashier signed in page\CashierSignedInPage\obj\Debug\CashierSignedInPage.csproj.GenerateResource.cache
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Cashier signed in page\CashierSignedInPage\obj\Debug\CashierSignedInPage.csproj.CoreCompileInputs.cache
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Cashier signed in page\CashierSignedInPage\obj\Debug\CashierSignedInPage.exe
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Cashier signed in page\CashierSignedInPage\obj\Debug\CashierSignedInPage.pdb

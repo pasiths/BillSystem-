@@ -1,0 +1,10 @@
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Sign in page\SignInPage\bin\Debug\SignInPage.exe.config
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Sign in page\SignInPage\bin\Debug\SignInPage.exe
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Sign in page\SignInPage\bin\Debug\SignInPage.pdb
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Sign in page\SignInPage\obj\Debug\SignInPage.csproj.AssemblyReference.cache
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Sign in page\SignInPage\obj\Debug\SignInPage.Properties.Resources.resources
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Sign in page\SignInPage\obj\Debug\SignInPage.csproj.GenerateResource.cache
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Sign in page\SignInPage\obj\Debug\SignInPage.csproj.CoreCompileInputs.cache
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Sign in page\SignInPage\obj\Debug\SignInPage.exe
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Sign in page\SignInPage\obj\Debug\SignInPage.pdb
+C:\Users\sawli poornima\Desktop\Software Project 1\BookShopApplication(loginpage)\Sign in page\SignInPage\obj\Debug\SignInPage.resetPassword.resources

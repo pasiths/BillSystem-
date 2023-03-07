@@ -1,0 +1,24 @@
+C:\Users\PaSiYa\Desktop\C# Project\userDetails\userDetails\bin\Debug\userDetails.exe.config
+C:\Users\PaSiYa\Desktop\C# Project\userDetails\userDetails\bin\Debug\userDetails.exe
+C:\Users\PaSiYa\Desktop\C# Project\userDetails\userDetails\bin\Debug\userDetails.pdb
+C:\Users\PaSiYa\Desktop\C# Project\userDetails\userDetails\obj\Debug\userDetails.csproj.AssemblyReference.cache
+C:\Users\PaSiYa\Desktop\C# Project\userDetails\userDetails\obj\Debug\userDetails.csproj.SuggestedBindingRedirects.cache
+C:\Users\PaSiYa\Desktop\C# Project\userDetails\userDetails\obj\Debug\userDetails.Properties.Resources.resources
+C:\Users\PaSiYa\Desktop\C# Project\userDetails\userDetails\obj\Debug\userDetails.csproj.GenerateResource.cache
+C:\Users\PaSiYa\Desktop\C# Project\userDetails\userDetails\obj\Debug\userDetails.csproj.CoreCompileInputs.cache
+C:\Users\PaSiYa\Desktop\C# Project\userDetails\userDetails\obj\Debug\userDetails.exe
+C:\Users\PaSiYa\Desktop\C# Project\userDetails\userDetails\obj\Debug\userDetails.pdb
+C:\Users\PaSiYa\Desktop\C# Project\userDetails\userDetails\obj\Debug\userDetails.newStaff.resources
+C:\Users\PaSiYa\Desktop\C# Project\userDetails\userDetails\obj\Debug\userDetails.Staff_Details.resources
+C:\Users\PaSiYa\Desktop\MY\C# Project\BillSystemt\C# Project\userDetails\userDetails\bin\Debug\userDetails.exe.config
+C:\Users\PaSiYa\Desktop\MY\C# Project\BillSystemt\C# Project\userDetails\userDetails\bin\Debug\userDetails.exe
+C:\Users\PaSiYa\Desktop\MY\C# Project\BillSystemt\C# Project\userDetails\userDetails\bin\Debug\userDetails.pdb
+C:\Users\PaSiYa\Desktop\MY\C# Project\BillSystemt\C# Project\userDetails\userDetails\obj\Debug\userDetails.csproj.AssemblyReference.cache
+C:\Users\PaSiYa\Desktop\MY\C# Project\BillSystemt\C# Project\userDetails\userDetails\obj\Debug\userDetails.csproj.SuggestedBindingRedirects.cache
+C:\Users\PaSiYa\Desktop\MY\C# Project\BillSystemt\C# Project\userDetails\userDetails\obj\Debug\userDetails.newStaff.resources
+C:\Users\PaSiYa\Desktop\MY\C# Project\BillSystemt\C# Project\userDetails\userDetails\obj\Debug\userDetails.Staff_Details.resources
+C:\Users\PaSiYa\Desktop\MY\C# Project\BillSystemt\C# Project\userDetails\userDetails\obj\Debug\userDetails.Properties.Resources.resources
+C:\Users\PaSiYa\Desktop\MY\C# Project\BillSystemt\C# Project\userDetails\userDetails\obj\Debug\userDetails.csproj.GenerateResource.cache
+C:\Users\PaSiYa\Desktop\MY\C# Project\BillSystemt\C# Project\userDetails\userDetails\obj\Debug\userDetails.csproj.CoreCompileInputs.cache
+C:\Users\PaSiYa\Desktop\MY\C# Project\BillSystemt\C# Project\userDetails\userDetails\obj\Debug\userDetails.exe
+C:\Users\PaSiYa\Desktop\MY\C# Project\BillSystemt\C# Project\userDetails\userDetails\obj\Debug\userDetails.pdb
